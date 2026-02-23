@@ -1,8 +1,12 @@
 streamlit
-langchain
-langchain-groq
-langchain-qdrant
-qdrant-client
+pandas
 python-dotenv
-pypdf
+langchain
+langchain-core
+langchain-community
+langchain-groq
 langchain-huggingface
+langchain-qdrant
+langchain-experimental
+qdrant-client
+pymupdf
