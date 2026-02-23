@@ -1,0 +1,16 @@
+# 1. Virtual Environment (Yeh folder bohat heavy hota hai, isko upload nahi karna)
+env/
+venv/
+
+# 2. Secret Keys (Isme aapki API keys hain, inko public KABHI nahi karna)
+.env
+
+# 3. Local Databases (Cloud par system apna naya fresh database banayega)
+enterprise_rag.db
+.langchain.db
+
+# 4. Python Cache Files (Fuzool files jo system khud banata hai)
+__pycache__/
+*.pyc
+*.pyo
+

@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-groq
+langchain-qdrant
+qdrant-client
+python-dotenv
+pypdf
+langchain-huggingface
